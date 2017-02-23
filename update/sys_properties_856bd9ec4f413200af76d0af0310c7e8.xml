@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>PATech Task activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_inthe_rco_patech_rco_task_activity.fields</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>tkaneko</sys_created_by>
+        <sys_created_on>2017-02-16 19:01:44</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>856bd9ec4f413200af76d0af0310c7e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.x_inthe_rco_patech_rco_task_activity.fields</sys_name>
+        <sys_package display_value="RCO PATech Application" source="x_inthe_rco_patech">f05611a84f413200af76d0af0310c7e7</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="RCO PATech Application">f05611a84f413200af76d0af0310c7e7</sys_scope>
+        <sys_update_name>sys_properties_856bd9ec4f413200af76d0af0310c7e8</sys_update_name>
+        <sys_updated_by>tkaneko</sys_updated_by>
+        <sys_updated_on>2017-02-16 19:01:44</sys_updated_on>
+        <type>string</type>
+        <value>number,u_short_description,u_recurrence,u_assignment_group,u_assigned_to,sys_updated_on,u_add_work_notes</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=856bd9ec4f413200af76d0af0310c7e8"/>
+</record_update>

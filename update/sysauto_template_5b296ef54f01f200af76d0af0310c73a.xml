@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysauto_template">
+    <sysauto_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>true</conditional>
+        <name>Scheduled Generation based on Unconfirmed Report</name>
+        <run_as display_value="Tyler Kaneko">f6633c034f784600af76d0af0310c74e</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2017-02-20 21:53:59</run_start>
+        <run_time>1970-01-01 11:00:00</run_time>
+        <run_type>daily</run_type>
+        <sys_class_name>sysauto_template</sys_class_name>
+        <sys_created_by>tkaneko</sys_created_by>
+        <sys_created_on>2017-02-20 21:54:04</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>5b296ef54f01f200af76d0af0310c73a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scheduled Generation based on Unconfirmed Report</sys_name>
+        <sys_package display_value="RCO PATech Application" source="x_inthe_rco_patech">f05611a84f413200af76d0af0310c7e7</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="RCO PATech Application">f05611a84f413200af76d0af0310c7e7</sys_scope>
+        <sys_update_name>sysauto_template_5b296ef54f01f200af76d0af0310c73a</sys_update_name>
+        <sys_updated_by>tkaneko</sys_updated_by>
+        <sys_updated_on>2017-02-20 21:54:04</sys_updated_on>
+        <template display_value="Unconfirmed Report">8f7031e84f813200af76d0af0310c727</template>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_template>
+</record_update>
