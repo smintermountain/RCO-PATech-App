@@ -2,33 +2,33 @@
 <record_update table="sys_template">
     <sys_template action="INSERT_OR_UPDATE">
         <active>true</active>
-        <global>false</global>
+        <global>true</global>
         <group/>
         <link_element/>
-        <name>TEMPLATE555</name>
+        <name>Unconfirmed Report</name>
         <next/>
         <next_child/>
         <roles/>
-        <short_description/>
+        <short_description>Unconfirmed Report</short_description>
         <show_on_template_bar>true</show_on_template_bar>
-        <stand_alone>true</stand_alone>
+        <stand_alone>false</stand_alone>
         <sys_class_name>sys_template</sys_class_name>
-        <sys_created_by>tkaneko</sys_created_by>
-        <sys_created_on>2017-02-22 18:46:40</sys_created_on>
+        <sys_created_by>agkannan</sys_created_by>
+        <sys_created_on>2017-06-13 16:10:39</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>fe71546e4f81ba00f5f3d49f0310c759</sys_id>
+        <sys_id>1906d7824fdb3a00f5f3d49f0310c71a</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>TEMPLATE555</sys_name>
+        <sys_name>Unconfirmed Report</sys_name>
         <sys_package display_value="RCO PATech Application" source="x_inthe_rco_patech">f05611a84f413200af76d0af0310c7e7</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="RCO PATech Application">f05611a84f413200af76d0af0310c7e7</sys_scope>
-        <sys_update_name>sys_template_fe71546e4f81ba00f5f3d49f0310c759</sys_update_name>
-        <sys_updated_by>tkaneko</sys_updated_by>
-        <sys_updated_on>2017-02-22 18:47:02</sys_updated_on>
+        <sys_update_name>sys_template_1906d7824fdb3a00f5f3d49f0310c71a</sys_update_name>
+        <sys_updated_by>agkannan</sys_updated_by>
+        <sys_updated_on>2017-06-13 16:10:50</sys_updated_on>
         <table>x_inthe_rco_patech_rco_task</table>
-        <template>u_assigned_to=^u_assignment_group=^u_description=long desc daily task^u_recurrence=daily^u_short_description=daily task^u_state=1^EQ</template>
-        <user display_value="Tyler Kaneko">f6633c034f784600af76d0af0310c74e</user>
+        <template>u_recurrence=daily^u_short_description=Unconfirmed Report^u_state=1^EQ</template>
+        <user/>
         <view/>
     </sys_template>
 </record_update>

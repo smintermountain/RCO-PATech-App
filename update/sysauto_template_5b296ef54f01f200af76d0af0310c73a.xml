@@ -27,7 +27,7 @@
         <sys_update_name>sysauto_template_5b296ef54f01f200af76d0af0310c73a</sys_update_name>
         <sys_updated_by>tkaneko</sys_updated_by>
         <sys_updated_on>2017-02-20 21:54:04</sys_updated_on>
-        <template display_value="Unconfirmed Report">8f7031e84f813200af76d0af0310c727</template>
+        <template/>
         <upgrade_safe>false</upgrade_safe>
     </sysauto_template>
 </record_update>
